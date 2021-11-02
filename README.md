@@ -16,3 +16,9 @@ Scored 75/100 in the Course.
 **Course Name: Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint.**
 
 Scored 70/100 in the course.
+
+## Stage E Completed
+
+**Course Name: Practice of Time Series of Electric Household Consumption.**
+
+Scored 65/100 in the course.
