@@ -17,6 +17,12 @@ Scored 75/100 in the Course.
 
 Scored 70/100 in the course.
 
+## Stafe D Completed
+
+**Course Name: Image Neural Networks using CNN  and some Advanced CNN like VGG16**
+
+Scored 90/100 in the course.
+
 ## Stage E Completed
 
 **Course Name: Practice of Time Series of Electric Household Consumption.**
